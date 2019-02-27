@@ -1,3 +1,4 @@
+require "trailblazer/doc/description"
 require "trailblazer/doc/version"
 
 module Trailblazer
